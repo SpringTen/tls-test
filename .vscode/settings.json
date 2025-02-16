@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ssl.h": "c",
+        "engine.h": "c"
+    }
+}
